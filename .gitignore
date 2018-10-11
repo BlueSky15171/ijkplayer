@@ -1,0 +1,12 @@
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+*/build/
+/captures
+android-ndk-prof
+*.iml
+*/*.iml
+*/obj/
+*/.gitignore
